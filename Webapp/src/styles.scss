@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  padding: 4em;
+  font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif, “Apple Color Emoji”, “Segoe UI Emoji”, “Segoe UI Symbol”;
+
+  background-color: var(--surface-ground);
+  background: url("https://i.vimeocdn.com/filter/graph?src=https%3A%2F%2Fi.vimeocdn.com%2Frle_thumb%2F1349962,blur(sigma=10)");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+
+  background-image: linear-gradient(rgba(255, 255, 255, 0));
+  background-image: rgb(0, 0, 0);
+}
