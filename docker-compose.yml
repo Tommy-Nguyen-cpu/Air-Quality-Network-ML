@@ -1,0 +1,17 @@
+services:
+  ui:
+    container_name: httr-ui
+    restart: always
+    build: ./Webapp
+    ports:
+      - "4201:4200/udp"
+      - "4201:4200/tcp"
+    depends_on:
+      - api
+  api:
+    container_name: httr-api
+    restart: always
+    build: ./rest-api
+    ports:
+      - "5000:5000/udp"
+      - "5000:5000/tcp"

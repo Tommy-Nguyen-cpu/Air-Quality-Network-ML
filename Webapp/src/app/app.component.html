@@ -12,5 +12,6 @@
     (onUpload)="onUpload($event)"
     [multiple]="true"
     url={{api}}
-    accept=".csv" />
+    accept=".csv"
+    [maxFileSize]="10000000000" />
 </div>
