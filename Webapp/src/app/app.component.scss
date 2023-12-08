@@ -3,10 +3,27 @@
 }
 
 .title {
-  font-size: 5vw;
   color: var(--text-color);
 }
 
 .subtitle {
   color: var(--text-secondary-color);
+  padding-bottom: 5vh;
+}
+
+.fileupload {
+  display: flex;
+  justify-content: center;
+}
+
+:host ::ng-deep .p-fileupload-content {
+  background-color: transparent;
+}
+
+:host ::ng-deep .p-fileupload-buttonbar {
+  background-color: transparent;
+}
+
+:host ::ng-deep .p-fileupload {
+  background-color: transparent;
 }

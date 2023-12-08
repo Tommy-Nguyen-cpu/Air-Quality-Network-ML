@@ -1,5 +1,16 @@
 <div class="banner">
   <h1 class="title">{{title}}</h1>
-  <div class="subtitle">{{credits}}</div>
-  <div class="subtitle">{{uni}}</div>
+  <div class="subtitle">
+    <div>{{credits}}</div>
+    <div>{{uni}}</div>
+  </div>
+</div>
+
+<div class="fileupload">
+  <p-fileUpload
+    name="files[]"
+    (onUpload)="onUpload($event)"
+    [multiple]="true"
+    url={{api}}
+    accept=".csv" />
 </div>
