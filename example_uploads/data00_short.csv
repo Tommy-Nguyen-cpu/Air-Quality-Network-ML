@@ -1,0 +1,181 @@
+timestamp,value,parameter,device_id,chip_id,sensor_type,sensor_id,location_id,location,street_name,city,country,latitude,longitude,deployment_date
+2022-09-08 02:49:38.836 +0100,68.5,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:49:38.836 +0100,21.8,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:49:44.323 +0100,68.7,Humidity,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:49:44.323 +0100,21.2,Temperature,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:49:47.118 +0100,99.9,Humidity,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:49:47.118 +0100,13.9,Temperature,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:49:49.295 +0100,87,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:49:49.295 +0100,19.9,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:49:37.916 +0100,16,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:49:37.916 +0100,17.5,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:49:37.916 +0100,11,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:49:43.383 +0100,17.5,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:49:43.383 +0100,19.5,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:49:43.383 +0100,11,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:49:46.155 +0100,37,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:49:46.155 +0100,47.4,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:49:46.155 +0100,24.4,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:49:48.163 +0100,8,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:49:48.163 +0100,8.6,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:49:48.163 +0100,5,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:49:54.603 +0100,69.6,Humidity,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:49:54.603 +0100,21.2,Temperature,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:50:10.359 +0100,17.2,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:50:10.359 +0100,18.8,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:50:10.359 +0100,10.2,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:50:11.483 +0100,68.6,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:50:11.483 +0100,21.8,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:50:15.346 +0100,17,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:50:15.346 +0100,19,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:50:15.346 +0100,11,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:50:16.266 +0100,68.7,Humidity,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:50:16.266 +0100,21.2,Temperature,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:50:18.208 +0100,33,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:50:18.208 +0100,44.2,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:50:18.208 +0100,20,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:50:19.092 +0100,99.9,Humidity,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:50:19.092 +0100,13.9,Temperature,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:50:20.651 +0100,5.6,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:50:20.651 +0100,5.6,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:50:20.651 +0100,4.6,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:50:21.659 +0100,87.1,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:50:21.659 +0100,19.9,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:50:43.268 +0100,14,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:50:43.268 +0100,14,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:50:43.268 +0100,9,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:50:44.135 +0100,68.4,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:50:44.135 +0100,21.8,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:50:47.371 +0100,14.2,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:50:47.371 +0100,14.2,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:50:47.371 +0100,10,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:50:50.197 +0100,31.8,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:50:50.197 +0100,42.8,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:50:50.197 +0100,20.4,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:50:52.923 +0100,6,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:50:52.923 +0100,6.25,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:50:52.923 +0100,4.25,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:51:15.275 +0100,17.4,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:51:15.275 +0100,21.8,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:51:15.274 +0100,9.2,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:51:16.863 +0100,14.6,PM 2.5,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:51:16.863 +0100,14.6,PM 10,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:51:16.862 +0100,8.6,PM 1,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:51:18.475 +0100,24.4,PM 2.5,38,esp8266-11641603,9,71,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:34.439 +0100
+2022-09-08 02:51:18.475 +0100,27.6,PM 10,38,esp8266-11641603,9,71,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:34.439 +0100
+2022-09-08 02:51:18.474 +0100,14,PM 1,38,esp8266-11641603,9,71,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:34.439 +0100
+2022-09-08 02:51:19.919 +0100,99.9,Humidity,38,esp8266-11641603,2,72,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:50.176 +0100
+2022-09-08 02:51:19.918 +0100,15.3,Temperature,38,esp8266-11641603,2,72,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:50.176 +0100
+2022-09-08 02:51:22.252 +0100,36.5,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:51:22.252 +0100,45.25,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:51:22.252 +0100,23.25,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:51:24.999 +0100,7,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:51:24.999 +0100,7,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:51:24.998 +0100,4.25,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:51:47.592 +0100,14.4,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:51:47.592 +0100,14.6,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:51:47.592 +0100,10,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:51:49.376 +0100,13.2,PM 2.5,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:51:49.376 +0100,14.2,PM 10,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:51:49.375 +0100,7.4,PM 1,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:51:51.355 +0100,15,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:51:51.354 +0100,16,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:51:51.354 +0100,8.8,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:51:54.243 +0100,40.75,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:51:54.243 +0100,52,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:51:54.242 +0100,26,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:51:57.092 +0100,5,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:51:57.092 +0100,5.6,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:51:57.092 +0100,3.6,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:52:19.644 +0100,16,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:52:19.644 +0100,17,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:52:19.643 +0100,9,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:52:23.277 +0100,16,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:52:23.277 +0100,16,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:52:23.277 +0100,12,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:52:26.275 +0100,35.4,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:52:26.275 +0100,43.4,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:52:26.275 +0100,24,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:52:29.175 +0100,8.2,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:52:29.175 +0100,8.6,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:52:29.175 +0100,5.8,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:52:40.779 +0100,69.6,Humidity,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:52:40.779 +0100,21.2,Temperature,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:52:52.616 +0100,68.4,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:52:52.616 +0100,21.8,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:52:56.580 +0100,68.7,Humidity,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:52:56.580 +0100,21.2,Temperature,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:52:59.298 +0100,99.9,Humidity,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:52:59.298 +0100,13.8,Temperature,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:53:02.086 +0100,87.1,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:53:02.086 +0100,19.8,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:53:23.660 +0100,18,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:53:23.660 +0100,21.75,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:53:23.660 +0100,10.25,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:53:27.626 +0100,16.4,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:53:27.626 +0100,17,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:53:27.626 +0100,11,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:53:30.351 +0100,40.25,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:53:30.350 +0100,50,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:53:30.350 +0100,26,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:53:31.236 +0100,99.9,Humidity,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:53:31.236 +0100,13.9,Temperature,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:53:34.460 +0100,87.2,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:53:34.460 +0100,19.9,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:53:47.920 +0100,99.9,Humidity,38,esp8266-11641603,2,72,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:50.176 +0100
+2022-09-08 02:53:47.920 +0100,15.2,Temperature,38,esp8266-11641603,2,72,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2018-08-08 14:56:50.176 +0100
+2022-09-08 02:53:56.590 +0100,69.6,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:53:56.590 +0100,22.3,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:54:00.556 +0100,68.7,Humidity,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:54:00.556 +0100,21.2,Temperature,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:54:02.506 +0100,16,PM 2.5,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:54:02.506 +0100,16,PM 10,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:54:02.506 +0100,9,PM 1,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:54:03.639 +0100,69.6,Humidity,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:54:03.639 +0100,21.2,Temperature,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:54:06.646 +0100,87.1,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:54:06.646 +0100,19.9,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:54:29.535 +0100,68.4,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:54:29.535 +0100,21.8,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:54:32.536 +0100,68.7,Humidity,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:54:32.536 +0100,21.2,Temperature,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:54:34.927 +0100,15,PM 2.5,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:54:34.927 +0100,15,PM 10,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:54:34.927 +0100,8,PM 1,73,esp8266-15355455,9,140,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:12:43.853 +0100
+2022-09-08 02:54:36.002 +0100,69.6,Humidity,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:54:36.002 +0100,21.2,Temperature,73,esp8266-15355455,2,141,3579,"Thigiri Lane, Nairobi",Thigiri Lane,Nairobi,Kenya,-1.2392724,36.7908528,2019-03-27 10:13:38.201 +0100
+2022-09-08 02:54:38.678 +0100,87.2,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:54:38.678 +0100,19.9,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:55:01.522 +0100,68.4,Humidity,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:55:01.522 +0100,21.8,Temperature,105,esp8266-1532917,2,177,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:06:59.812 +0100
+2022-09-08 02:55:04.718 +0100,68.7,Humidity,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:55:04.718 +0100,21.2,Temperature,99,esp8266-1530897,2,163,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:32.742 +0100
+2022-09-08 02:55:07.604 +0100,99.9,Humidity,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:55:07.603 +0100,13.9,Temperature,27,esp8266-11639153,2,50,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:38:12.408 +0100
+2022-09-08 02:55:11.010 +0100,87.1,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:55:11.010 +0100,19.9,Temperature,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
+2022-09-08 02:55:32.668 +0100,17,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:55:32.668 +0100,17,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:55:32.668 +0100,9.75,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:55:35.854 +0100,15.4,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:55:35.854 +0100,15.4,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:55:35.854 +0100,11,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:55:38.990 +0100,42.5,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:55:38.990 +0100,51.75,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:55:38.990 +0100,27.25,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:55:42.133 +0100,6.6,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:55:42.133 +0100,6.6,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:55:42.133 +0100,4,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:56:04.766 +0100,20,PM 2.5,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:56:04.766 +0100,22.6,PM 10,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:56:04.766 +0100,11.8,PM 1,105,esp8266-1532917,9,178,3612,Redcliffe Gardens,Muringa Road,Nairobi,Kenya,-1.296,36.776,2020-08-12 11:07:23.978 +0100
+2022-09-08 02:56:07.925 +0100,14.6,PM 2.5,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:56:07.925 +0100,16.4,PM 10,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:56:07.925 +0100,10,PM 1,99,esp8266-1530897,9,162,7,Code for Kenya,"Nairobi Garage, 8th Floor, Pinetree Plaza, Kaburu Drive, Off Ngong Road, Nairobi",Nairobi,Kenya,-1.2982944,36.79087,2020-01-21 12:47:06.674 +0100
+2022-09-08 02:56:11.023 +0100,39.6,PM 2.5,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:56:11.023 +0100,50.2,PM 10,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:56:11.023 +0100,27.8,PM 1,27,esp8266-11639153,9,49,3573,"August 7th Memorial  Park, Haile Selassie Ave",Haile Selassie Ave,Nairobi,Kenya,-1.288985,36.8246792,2018-07-17 12:37:58.501 +0100
+2022-09-08 02:56:14.078 +0100,7,PM 2.5,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:56:14.078 +0100,7,PM 10,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:56:14.078 +0100,5,PM 1,49,esp8266-11640216,9,93,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:18:23.351 +0100
+2022-09-08 02:56:15.078 +0100,87.1,Humidity,49,esp8266-11640216,2,94,18,TUK,Haile Selassie Ave,Nairobi,Kenya,-1.2917189,36.8212484,2018-08-31 13:19:10.690 +0100
